@@ -7,7 +7,7 @@ public class SistemaInformativo {
       String entrada = scanner.nextLine();
       String[] partes = entrada.split(",");
 
-      // Obtenção dos valores da entrada.
+      // Obtenção dos valores da entrada
       String data = partes[0];
       String hora = partes[1];
       String descricao = partes[2];
