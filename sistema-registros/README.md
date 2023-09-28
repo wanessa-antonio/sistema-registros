@@ -14,7 +14,7 @@ Considere que cada transação é representada por apenas uma string contendo as
 Dessa forma, crie uma classe representando as Transações e nela será recebido os atributos necessários para guardar as informações, ao fim, retorne o registro contendo a data, hora e valor da transação.
 
 Entrada:
-- A entrada será a representação de um registro (string) no formato e sequencia: "data,hora,descricao,valor".
+- A entrada será a representação de um registro (string) no formato e sequência: "data,hora,descricao,valor".
 
 Saída:
 - A saída deve ser o valor do registro (string) recebido na entrada informando a transação efetuada, contendo, descrição, data, hora e valor da transação.
